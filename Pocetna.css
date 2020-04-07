@@ -1,0 +1,40 @@
+
+nav {
+	position: fixed;
+	width: 1800px;
+	height: 50px;
+	background-color:red;
+	text-align: left;
+
+}
+
+
+a:link {
+    color: grey;
+}
+a:visited {
+    color: black;
+}
+
+a:hover {
+    color: pink;
+
+}
+a:active {
+    color: blue;
+}
+
+footer {background: black;
+text-align: center;
+font-style:italic;
+padding: 20px 0;
+font-size: 20px;
+}
+
+.images {
+	padding-top: 50px;
+	width: 90%;
+  margin: auto;
+
+}
+.p{ color: white;}
